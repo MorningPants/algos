@@ -34,3 +34,6 @@ Example:
     
     return dummy.next
 }
+
+```
+    TIME: 5 minutes
