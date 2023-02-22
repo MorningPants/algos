@@ -1,3 +1,5 @@
+Total time: 12 minutes
+
 Q. Determine if the given string is a capital, satisfying one of the conditions:
 
 All letters are capitals (e.g. "FORMATION")
